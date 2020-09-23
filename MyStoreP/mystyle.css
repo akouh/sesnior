@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 16, 2019, 1:11:41 PM
+    Author     : kammouh
+*/
+
+input[type=text]:hover{background-color: whitesmoke; color:black }
+p.danger{color: white ; background-color: blue}
+p.warning{color: blueviolet; background-color: chartreuse; width: 50%;}
+
+input[type=reset]:hover{background-color: black; color:brown }
+.centered { position:absolute ; border-radius: 60px;top: 20%; left: 50%; margin-top: -50px; margin-left: -300px }
+.centeredad { position:absolute ; border-radius: 60px;top: 20%; left: 50%; margin-top: -50px; margin-left: -270px }
+
+
+.centeredsin { position:absolute ; border-radius: 60px;top: 50%; left: 50%; margin-top: -500px }
+.centeredlog { position:absolute ; border-radius: 60px;top: 75%; left: 65%; margin-top: -400px; margin-left: -250px }
+.background {background-color: white ;border-radius: 8px }
+.box{border-radius:8px }    
+.container{ padding:"25px"; height: "225px" ;width:  "225px"}
+
+body {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
